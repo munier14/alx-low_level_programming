@@ -1,5 +1,5 @@
-#include "main.h"
-
+#include "holberton.h"
+#include "main.c"
 /**
  * print_alphabet - a function that prints the alphabet, in lowercase
  *
