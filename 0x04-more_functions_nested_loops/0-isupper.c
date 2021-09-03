@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _isupper - check the code for Holberton School students.
+ * _isupper - check the code for alx School students.
  *@c : variable
  * Return: 0 or 1 .
  */
