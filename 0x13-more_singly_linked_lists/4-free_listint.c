@@ -18,5 +18,4 @@ void free_listint(listint_t *head)
 		temp = temp2;
 	}
 }
-© 2021 GitHub, Inc.
 
